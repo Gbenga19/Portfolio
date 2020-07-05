@@ -47,6 +47,7 @@ h1{
 h2{
     background-color: rgb(19, 105, 145);
     font-size: 21px;
+     margin-top: 20px;
     margin-bottom: 20px;
     border: 2px solid rgb(82, 82, 126);   
 }
