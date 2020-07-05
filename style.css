@@ -16,17 +16,16 @@ body{
 }
 #welcome-section{
     width: 100%;
-    height: 100vh;
+    height: ; 
     
 }
 #welcome-section p{
     font-style: italic;
     margin: 0 25px;
-    padding-bottom: 20px;
     border-bottom: 2px solid white;
 }
 .profile-image{
-    margin-top: 155px;
+    margin-top: 130px;
     border-color: rgb(65, 13, 185);
     border-radius: 100%;
     border-width: 5px;
