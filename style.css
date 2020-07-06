@@ -39,7 +39,7 @@ body{
 img{
     display: block;
     width: 100%;
-    height: 50vh;
+    height: auto;
 }
 h1{
     font-size: 40px;
