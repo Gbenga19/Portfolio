@@ -28,8 +28,8 @@ body{
     margin-top: 130px;
     border-color: rgb(65, 13, 185);
     border-radius: 100%;
-    border-width: 5px;
-    border-style: solid;  
+    border-width: 1px;
+    border-style: solid;   
     width:200;
     height: 200;
     text-align: center;
