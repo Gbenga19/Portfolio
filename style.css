@@ -142,5 +142,6 @@ p{
 
 footer{
  margin-top: 7px;
- background-color: black;
+ background-color: rgb(82, 82, 126);
+ color: black; 
 }
