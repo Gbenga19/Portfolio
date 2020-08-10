@@ -115,7 +115,7 @@ p{
 .project-grid a{
     color: blanchedalmond;
     text-decoration: none;
-    background:black;
+    background-color: black;
 }
 .projects-section-header{
     padding-bottom: 5px;
@@ -147,4 +147,4 @@ footer{
  background-color: rgb(82, 82, 126);
  color: black; 
  font-weight: bold; 
-} 
+}  
