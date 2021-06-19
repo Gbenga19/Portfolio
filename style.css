@@ -151,3 +151,7 @@ footer{
  color: black; 
  font-weight: bold; 
 }  
+a {
+  color: blue;
+  text-decoration: none;
+}
